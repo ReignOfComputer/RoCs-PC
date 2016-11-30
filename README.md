@@ -10,30 +10,38 @@ I'm working on creating updated 2016 versions of every game's PokeDex since I'm 
 
 For more information including Progress, Credits, and Thanks, visit the thread on ProjectPokemon at http://roc.ms/rocpc.
 
-01 - Gen I - RB**Y** Collection [Complete]
-02 - Gen I - RB**Y** Collection {pk1} [Complete]
-03 - Gen II - GS**C** Collection [Complete]
-04 - Gen II - GS**C** Collection {pk2} [Complete]
-05 - Gen III - RS**E** Collection [Complete]
-06 - Gen III - **FR**LG Collection [Complete]
-07 - Gen III - **XDCOLO** Collection [Complete]
-08 - Gen III - Events [Complete]
-09 - Gen IV - DP**Pt** Collection [Complete]
-10 - Gen IV - **HG**SS Collection [Complete]
-11 - Gen IV - RNG & Shiny [Complete]
-12 - Gen IV - Events [Complete]
-13 - Gen IV - Gen III Pal Park [Complete]
-14 - Gen V - **B**W Collection
-15 - Gen V - **B2**W2 Collection
-16 - Gen V - RNG & Shiny
-17 - Gen V - Events
-18 - Gen V - Gen IV Poke Transfer
-19 - Gen VI - **X**Y Collection
-20 - Gen VI - **OR**AS Collection
-21 - Gen VI - RNG & Shiny
-22 - Gen VI - Events
-23 - Gen VI - Gen V Poke Transporter
-24 - Gen VII - S**M** Collection
-25 - Gen VII - RNG & Shiny
-26 - Gen VII - Events
-27 - Gen VII - Gen VI Poke Bank [Waiting]
+| Folder | Status |
+| ------ | ------ |
+| 01 - Gen I - RB**Y** Collection | Locked |
+| 02 - Gen I - RB**Y** Collection {pk1} | Locked |
+| 03 - Gen II - GS**C** Collection | Locked |
+| 04 - Gen II - GS**C** Collection {pk2} | Locked |
+| 05 - Gen III - RSE Collection | Locked |
+| 06 - Gen III - FRLG Collection | Locked |
+| 07 - Gen III - XDCOLO Collection | Locked |
+| 08 - Gen III - Events | Locked |
+| 09 - Gen IV - DPPt Collection | Locked |
+| 10 - Gen IV - HGSS Collection | Locked |
+| 11 - Gen IV - RNG & Shiny | Locked |
+| 12 - Gen IV - Events | Locked |
+| 13 - Gen IV - Gen III Pal Park | Locked |
+| 14 - Gen V - BW Collection | In Progress |
+| 15 - Gen V - B2W2 Collection | Not Started |
+| 16 - Gen V - RNG & Shiny | Locked |
+| 17 - Gen V - Events | Locked |
+| 18 - Gen V - Gen IV Poke Transfer | In Progress |
+| 19 - Gen VI - XY Collection | In Progress |
+| 20 - Gen VI - ORAS Collection | In Progress |
+| 21 - Gen VI - RNG & Shiny | Locked |
+| 22 - Gen VI - Events | Locked |
+| 23 - Gen VI - Gen V Poke Transporter | Not Started |
+| 24 - Gen VII - SM Collection | In Progress |
+| 25 - Gen VII - RNG & Shiny | Locked |
+| 26 - Gen VII - Events | Locked |
+| 27 - Gen VII - Gen VI Poke Bank | Locked |
+
+| Status | Description |
+| ------ | ------ |
+| Locked | No changes for the foreseeable future |
+| In Progress | Currently working on it |
+| Not Started | Duh |

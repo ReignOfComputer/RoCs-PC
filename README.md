@@ -29,7 +29,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 15 - Gen V - **B2**W2 Collection | Not Started |
 | 16 - Gen V - RNG & Shiny | Locked |
 | 17 - Gen V - Events | Locked |
-| 18 - Gen V - Gen IV Poke Transfer | In Progress |
+| 18 - Gen V - Gen IV Poke Transfer | Locked |
 | 19 - Gen VI - **X**Y Collection | In Progress |
 | 20 - Gen VI - **OR**AS Collection | In Progress |
 | 21 - Gen VI - RNG & Shiny | Locked |

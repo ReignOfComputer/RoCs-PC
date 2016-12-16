@@ -25,8 +25,8 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 11 - Gen IV - RNG & Shiny | Locked |
 | 12 - Gen IV - Events | Locked |
 | 13 - Gen IV - Gen III Pal Park | Locked |
-| 14 - Gen V - **B**W Collection | In Progress |
-| 15 - Gen V - **B2**W2 Collection | Not Started |
+| 14 - Gen V - **B**W Collection | Locked |
+| 15 - Gen V - **B2**W2 Collection | In Progress |
 | 16 - Gen V - RNG & Shiny | Locked |
 | 17 - Gen V - Events | Locked |
 | 18 - Gen V - Gen IV Poke Transfer | Locked |

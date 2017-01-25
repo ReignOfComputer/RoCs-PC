@@ -34,7 +34,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 20 - Gen VI - **OR**AS Collection | In Progress |
 | 21 - Gen VI - RNG & Shiny | Locked |
 | 22 - Gen VI - Events | Locked |
-| 23 - Gen VI - Gen V Poke Transporter | Not Started |
+| 23 - Gen VI - Gen V Poke Transporter | In Progress |
 | 24 - Gen VII - S**M** Collection | Locked |
 | 25 - Gen VII - RNG & Shiny | Locked |
 | 26 - Gen VII - Events | Locked |

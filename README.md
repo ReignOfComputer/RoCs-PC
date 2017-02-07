@@ -26,7 +26,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 12 - Gen IV - Events | Locked |
 | 13 - Gen IV - Gen III Pal Park | Locked |
 | 14 - Gen V - **B**W Collection | Locked |
-| 15 - Gen V - **B2**W2 Collection | In Progress |
+| 15 - Gen V - **B2**W2 Collection | Locked |
 | 16 - Gen V - RNG & Shiny | Locked |
 | 17 - Gen V - Events | Locked |
 | 18 - Gen V - Gen IV Poke Transfer | Locked |
@@ -34,7 +34,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 20 - Gen VI - **OR**AS Collection | In Progress |
 | 21 - Gen VI - RNG & Shiny | Locked |
 | 22 - Gen VI - Events | Locked |
-| 23 - Gen VI - Gen V Poke Transporter | In Progress |
+| 23 - Gen VI - Gen V Poke Transporter | Locked |
 | 24 - Gen VII - S**M** Collection | Locked |
 | 25 - Gen VII - RNG & Shiny | Locked |
 | 26 - Gen VII - Events | Locked |

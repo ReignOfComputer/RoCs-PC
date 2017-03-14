@@ -18,12 +18,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # RoC's PC
-zEmulation/
-zHolding/
 zOpCelebi/
-zRollout/
 zTools/
 19 - Gen VI - XY Collection/Save Data/
 20 - Gen VI - ORAS Collection/Save Data/
 24 - Gen VII - SM Collection/Save Data/
-zSaves/

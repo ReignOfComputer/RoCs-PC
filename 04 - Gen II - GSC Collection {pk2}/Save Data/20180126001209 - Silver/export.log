@@ -1,0 +1,8 @@
+=== File Tree ===
+/
++--sav.dat
++--SecureValue
+
+=== File Copy ===
+CopyFile: save:/sav.dat => sdmc:/filer/UserSaveData/20180126001209/00001727/sav.dat (32784 Byte)
+CopyFile: save:/SecureValue => sdmc:/filer/UserSaveData/20180126001209/00001727/SecureValue (8 Byte)

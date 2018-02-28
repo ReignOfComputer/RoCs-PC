@@ -1,14 +1,14 @@
 # RoC's PC
 
-Little project I'm working on to go through all the Pokémon games and establish a library in 2016. Yes, some people have done so before me - but this is more of a personal goal to well... Complete the PokeDex.
+Little project I'm working on to go through all the Pokémon games and establish a library in 2016-2018. Yes, some people have done so before me - but this is more of a personal goal to well... Complete the PokeDex.
 
 Though my Pokémon journey started in ~1998, it never really took off until 2006 with the release of Diamond/Pearl. With the GTS and the going online, meeting many like-minded people from communities such as PokemonGTS, ProjectPokemon, ~~and Secure~~, I can see how peaking behind the curtain got me to where I am today.
 
 Still here? Cool. Here you'll find my collection, amassed since 2006 through my own game-play, The Global Terminal, friends, and more. This includes quite a number of 3rd Gen events (pre-PalParked, see 13 - Gen IV - Gen III Pal Park). I'm still digging through my archive folders so there's probably a lot more, but with the sheer amount of files this will take some time. Also as a disclaimer, it's been so long that I can't tell if any of the events are hacked (especially those GCEA, WISH, etc). I wouldn't assume everything is legit.
 
-I'm working on creating updated 2016 versions of every game's PokeDex since I'm playing through everything from Gen I to VII (#completionist), but you can find my old 2011/2013 5/6th Gen files in zArchive.
+I'm working on creating updated 2016-2018 versions of every game's PokeDex since I'm playing through everything from Gen I to VII (#completionist), but you can find my old 2011/2013 5/6th Gen files in zArchive.
 
-For more information including Progress, Credits, and Thanks, visit the thread on ProjectPokemon at http://roc.ms/rocpc.
+For more information including Progress, Credits, and Thanks, visit the thread on ProjectPokemon at https://roc.ms/rocpc.
 
 | Folder | Status |
 | ------ | ------ |
@@ -36,7 +36,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 22 - Gen VI - Events | Locked |
 | 23 - Gen VI - Gen V Poke Transporter | Locked |
 | 24 - Gen VII - S**M** Collection | Locked |
-| 25 - Gen VII - US**UM** Collection | In Progress |
+| 25 - Gen VII - US**UM** Collection | Locked |
 | 26 - Gen VII - RNG & Shiny | Locked |
 | 27 - Gen VII - Events | Locked |
 | 28 - Gen VII - Gen VI Poke Bank | Locked |

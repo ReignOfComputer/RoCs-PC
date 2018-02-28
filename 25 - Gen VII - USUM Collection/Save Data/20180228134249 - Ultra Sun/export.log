@@ -1,0 +1,6 @@
+=== File Tree ===
+/
++--main
+
+=== File Copy ===
+CopyFile: save:/main => sdmc:/filer/UserSaveData/20180228134249/00001b50/main (445440 Byte)

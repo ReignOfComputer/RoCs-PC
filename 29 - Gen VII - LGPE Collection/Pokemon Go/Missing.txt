@@ -8,11 +8,9 @@ Dugtrio-Alola
 Meowth-Alola
 Persian-Alola
 Machamp
-Graveler-Alola
 Golem-Alola
 Grimer-Alola
 Muk-Alola
-Electrode
 Exeggutor-Alola
 Marowak-Alola
 Hitmonlee

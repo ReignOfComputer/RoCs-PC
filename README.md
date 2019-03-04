@@ -40,7 +40,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 26 - Gen VII - RNG & Shiny | Locked |
 | 27 - Gen VII - Events | Locked |
 | 28 - Gen VII - Gen VI Poke Bank | Locked |
-| 29 - Gen VII - LGPE Collection | In Progress |
+| 29 - Gen VII - LGPE Collection | Locked |
 | 30 - Gen VII - LGPE RNG & Shiny | Locked |
 
 | Status | Description |

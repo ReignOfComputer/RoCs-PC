@@ -1,5 +1,7 @@
 # RoC's PC
 
+Update: We continue into 2019 and beyond!
+
 Little project I'm working on to go through all the Pokémon games and establish a library in 2016-2018. Yes, some people have done so before me - but this is more of a personal goal to well... Complete the PokeDex.
 
 Though my Pokémon journey started in ~1998, it never really took off until 2006 with the release of Diamond/Pearl. With the GTS and the going online, meeting many like-minded people from communities such as PokemonGTS, ProjectPokemon, ~~and Secure~~, I can see how peaking behind the curtain got me to where I am today.
@@ -42,6 +44,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 28 - Gen VII - Gen VI Poke Bank | Locked |
 | 29 - Gen VII - LGPE Collection | Locked |
 | 30 - Gen VII - LGPE RNG & Shiny | Locked |
+| 31 - Gen VIII - SWSH Collection | In Progress |
 
 | Status | Description |
 | ------ | ------ |

@@ -42,9 +42,9 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 26 - Gen VII - RNG & Shiny | Locked |
 | 27 - Gen VII - Events | Locked |
 | 28 - Gen VII - Gen VI Poke Bank | Locked |
-| 29 - Gen VII - LGPE Collection | Locked |
+| 29 - Gen VII - LG**P**E Collection | Locked |
 | 30 - Gen VII - LGPE RNG & Shiny | Locked |
-| 31 - Gen VIII - SWSH Collection | In Progress |
+| 31 - Gen VIII - **SW**SH Collection | In Progress |
 
 | Status | Description |
 | ------ | ------ |

@@ -1,6 +1,4 @@
 Charizard
-Butterfree
-Meowth
 Machamp
 Gengar
 Kingler
@@ -8,11 +6,9 @@ Lapras
 Garbodor
 Corviknight
 Orbeetle
-Drednaw
 Coalossal
 Flapple
 Appletun
-Sandaconda
 Centiskorch
 Hatterene
 Grimmsnarl

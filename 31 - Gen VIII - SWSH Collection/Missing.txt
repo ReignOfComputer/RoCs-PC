@@ -1,8 +1,3 @@
-== Gmax ==
-Rillaboom
-Cinderace
-Inteleon
-
 == Trades ==
 Meowth-Galar
 Farfetch'd-Galar

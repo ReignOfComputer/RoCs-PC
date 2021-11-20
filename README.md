@@ -46,6 +46,8 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 30 - Gen VII - LGPE RNG & Shiny | Locked |
 | 31 - Gen VIII - **SW**SH Collection | Locked |
 | 32 - Gen VIII - SWSH RNG & Shiny | Locked |
+| 33 - Gen VIII - **BD**SP Collection | Locked |
+| 34 - Gen VIII - BDSP RNG & Shiny | Locked |
 | 35 - Gen VIII - Events | Locked |
 
 | Status | Description |

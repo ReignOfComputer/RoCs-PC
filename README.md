@@ -48,7 +48,9 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 32 - Gen VIII - SWSH RNG & Shiny | Locked |
 | 33 - Gen VIII - **BD**SP Collection | Locked |
 | 34 - Gen VIII - BDSP RNG & Shiny | Locked |
-| 35 - Gen VIII - Events | Locked |
+| 35 - Gen VIII - PLA Collection | Locked |
+| 36 - Gen VIII - PLA RNG & Shiny | Locked |
+| 37 - Gen VIII - Events | Locked |
 
 | Status | Description |
 | ------ | ------ |

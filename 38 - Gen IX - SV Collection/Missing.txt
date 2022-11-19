@@ -1,40 +1,4 @@
 Maushold
-Palafin
-Gengar
-
-Sprigatito
-Floragato
-Meowscarada
-Crocalor
-Skeledirge
-Quaxly
-Quaxwell
-Quaquaval
-
-Misdreavus
-Mismagius
-Gulpin
-Swalot
-Ceruledge
-Bagon
-Shelgon
-Salamence
-Dreepy
-Drakloak
-Dragapult
-Passimian
-Eiscue
-Clauncher
-Clawitzer
-Iron Treads
-Iron Bundle
-Iron Hands
-Iron Jugulis
-Iron Moth
-Iron Thorns
-Iron Valiant
-Miraidon
-
 Shellos-West
 Gastrodon-West
 Flabebe-Yellow
@@ -42,3 +6,8 @@ Flabebe-Blue
 Flabebe-White
 Florges-White
 Lycanroc-Dusk
+Dudunsparce-Three-Segment
+
+In-Game Trades
+RoC's Team
+Save Data

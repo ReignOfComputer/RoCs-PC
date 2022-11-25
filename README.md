@@ -51,7 +51,7 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 35 - Gen VIII - PLA Collection | Locked |
 | 36 - Gen VIII - PLA RNG & Shiny | Locked |
 | 37 - Gen VIII - Events | Locked |
-| 38 - Gen IX - **S**V Collection | In Progress |
+| 38 - Gen IX - **S**V Collection | Locked |
 
 | Status | Description |
 | ------ | ------ |

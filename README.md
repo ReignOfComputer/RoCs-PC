@@ -54,6 +54,9 @@ For more information including Progress, Credits, and Thanks, visit the thread o
 | 38 - Gen IX - **S**V Collection | Locked |
 | 39 - Gen IX - SV RNG & Shiny | Locked |
 | 40 - Gen IX - Events | Locked |
+| 41 - Gen IX - PLZA Collection | Locked |
+| 42 - Gen IX - PLZA Shinies | Locked |
+| 43 - Gen IX - PLZA Events | Locked |
 
 | Status | Description |
 | ------ | ------ |
